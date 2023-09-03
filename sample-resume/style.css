@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left-side {
+  background-color: grey;
+  width: 25%;
+  float: left;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  color: floralwhite;
+}
+
+.right-side {
+  background-color: white;
+  width: 75%;
+  float: left;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  color: grey;
+}
+
+.left-side-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-left: 80px;
+}
+
+.left-side1 {
+  padding-bottom: 20px;
+}
+.left-side2 {
+  text-align: justify;
+  border-bottom: 2px solid #b9b9b9;
+}
+.left-side2 h2 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.left-side2 p {
+  padding-bottom: 15px;
+}
+
+.left-side3 {
+  padding: 15px 0;
+  text-align: left;
+}
+.left-side3 h3 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.left-side3 p {
+  padding: 10px 8px;
+}
+.left-side3 a {
+  padding-left: 12px;
+  text-decoration: none;
+  color: floralwhite;
+}
+.left-side4 {
+  border-top: 2px solid #b9b9b9;
+  padding: 15px 0;
+}
+.left-side4 h3 {
+  text-align: center;
+}
+.left-side4 p {
+  padding: 8px 0;
+}
+.left-side4 a{
+    color: floralwhite;
+    text-decoration: none;
+}
+.right-side-name-right {
+  float: left;
+}
+.right-side-name a {
+  color: grey;
+  text-decoration: none;
+}
+.right-side-name-left {
+  float: right;
+}
+
+.right-side-work {
+  padding-top: 45px;
+  box-sizing: border-box;
+  border-bottom: 2px solid grey;
+  padding-bottom: 25px;
+}
+.right-side-name {
+  padding-top: 63px;
+  padding-bottom: 115px;
+  border-bottom: 2px solid grey;
+}
+.right-side-work h2 {
+  padding-bottom: 15px;
+}
+.right-side-work-left {
+  float: left;
+  width: 25%;
+}
+.right-side-work-right {
+  float: right;
+  width: 60%;
+}
+.work {
+  padding-bottom: 125px;
+}
+.right-side-edu {
+  padding: 25px 0;
+  box-sizing: border-box;
+  border-bottom: 2px solid grey;
+}
+.right-side-edu h2 {
+  padding-bottom: 15px;
+}
+.right-side-edu-left {
+  float: left;
+  width: 25%;
+}
+.right-side-edu-right {
+  float: right;
+  width: 60%;
+}
+.edu {
+  padding-bottom: 105px;
+}
+.right-side-act {
+  padding-top: 25px;
+  box-sizing: border-box;
+  padding-bottom: 30px;
+}
+.right-side-act h2 {
+  padding-bottom: 15px;
+}
+.right-side-act-left {
+  float: left;
+  width: 25%;
+}
+.right-side-act-right {
+  float: right;
+  width: 60%;
+}
+.left-side5 {
+  border-top: 2px solid #b9b9b9;
+  padding-top: 15px;
+}
+.left-side5 h3 {
+  text-align: center;
+}
+.left-side5 p {
+  padding: 8px 0;
+}
